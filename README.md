@@ -1,13 +1,14 @@
-### This repository contains some plugins:
+### ACTUALIZACION DE MAPIMAGEENGINE A VERSION "v2":
+**ESTA PARA LA 1.17
+PROTOCOL "440"
 
 Plugin|Description
 ------|-----------
-[MapImageEngine](https://github.com/FaigerSYS/MapImageEngine/tree/master/MapImageEngine)|Image engine for MCPE
-MIE_Animations|Animated images (not soon)
-[MIE_Protector](https://github.com/FaigerSYS/MapImageEngine/tree/master/MIE_Protector)|Addon for MapImageEngine to protect the image (frame) from rotation and destruction
-[MIE_Converter](https://github.com/FaigerSYS/MapImageEngine/tree/master/MIE_Converter)|Addon for MapImageEngine to convert images to .mie format
+[MapImageEngine](https://github.com/fernanACM/MapImageEngine_CONVERTER)|Convertidor para imagnes en formato (MCPE).
+MIE_Animations|Imagenes animadas (NO SE ACPETA IMAGENES ANIMADAS)
+[MIE_Protector](https://github.com/FaigerSYS/MapImageEngine/tree/master/MIE_Protector)|Proyecto.
+[MIE_Converter](https://faigersys.github.io/mie-converter/)|Convertidor
 
-I can not translate the plugin into all languages. I can also have grammatical mistakes in English, so any "language" contribution is welcomed :)
 
 ## Best users
 |#|User|Shox's|
