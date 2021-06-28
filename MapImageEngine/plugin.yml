@@ -3,7 +3,7 @@ name: MapImageEngine
 main: FaigerSYS\MapImageEngine\MapImageEngine
 version: 2.0.0
 api:
-- 3.19.2
+- 3.20.0
 load: POSTWORLD
 author: FaigerSYS
 description: Image engine for MC:BE servers
