@@ -16,7 +16,7 @@ MIE_Animations|Imagenes animadas (NO SE ACPETA IMAGENES ANIMADAS)
 |1|Encritary|500|
 |2|Yexeed|125|
 
-**ACTUALIZADO POR: fernanACM**
-**DESCARGA:(https://poggit.pmmp.io/r/130467/MapImageEngine_dev-1.phar)**
-**GITHUB:(https://github.com/fernanACM)**
-**POGGIT:(https://poggit.pmmp.io/ci/fernanACM)**
+# **ACTUALIZADO POR: fernanACM**
+#**DESCARGA:(https://poggit.pmmp.io/r/130467/MapImageEngine_dev-1.phar)**
+#**GITHUB:(https://github.com/fernanACM)**
+#**POGGIT:(https://poggit.pmmp.io/ci/fernanACM)**
