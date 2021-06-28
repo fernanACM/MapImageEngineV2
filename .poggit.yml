@@ -1,0 +1,12 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/fernanACM/MapImageEngineV2
+build-by-default: true
+branches:
+- master
+projects:
+  MIE_Converter:
+    path: MIE_Converter/
+  MIE_Protector:
+    path: MIE_Protector/
+  MapImageEngine:
+    path: MapImageEngine/
+...
